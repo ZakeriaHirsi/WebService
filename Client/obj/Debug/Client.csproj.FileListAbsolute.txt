@@ -1,0 +1,18 @@
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\bin\Debug\Client.exe.config
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\bin\Debug\Client.exe
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\bin\Debug\Client.pdb
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\obj\Debug\Client.exe
+C:\Users\zakeria.hirsi\source\repos\WebService\Client\obj\Debug\Client.pdb
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\bin\Debug\Client.exe.config
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\bin\Debug\Client.exe
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\bin\Debug\Client.pdb
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\obj\Debug\Client.exe
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\obj\Debug\Client.pdb
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\bin\Debug\WebService.dll
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\bin\Debug\WebService.pdb
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\bin\Debug\WebService.dll.config
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\Client\obj\Debug\Client.csproj.CopyComplete

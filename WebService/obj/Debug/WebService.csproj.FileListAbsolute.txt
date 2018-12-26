@@ -1,0 +1,14 @@
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\bin\WebService.dll.config
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\bin\WebService.dll
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\bin\WebService.pdb
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\zakeria.hirsi\source\repos\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\bin\WebService.dll.config
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\bin\WebService.dll
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\bin\WebService.pdb
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Zak\source\repos\Side Projects\SMART Targets\WebService\WebService\obj\Debug\WebService.pdb
